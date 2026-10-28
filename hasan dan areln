@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1 .0">
+    <title>Website pertamaku</title>
+
+  <stlye>
+     body {
+         background-color: #101827
+         color: white;
+         font-family: Arian, sans-serif;
+         text-align: center;
+         padding: 50px 20px;
+} 
+
+hi {
+    color: #00e5ff;
+}
+
+p {
+   font-size; 18px;
+}
+
+button {
+    background-color: #00e5ff;
+    color: #101827;
+    padding: 50px 20px;
+    border: none;
+    border-rasidus: 10px;
+    cursor: pointer;
+}
+  </stlye>
+</head>
+
+<body>
+    <hi>Selamat Datang </hi>
+
+    <p>Ini adalah Website pertamaku.</p>
+
+    <p>Aku sedang belajar Rekayasa Prangkat Lunak (RPL).</p>
+
+    <button onclick="aleart('Halo, Bro! Website lu Berhasil')">
+       Klik Aku!
+    <button>
+</body>
+</html>
+    
+    
